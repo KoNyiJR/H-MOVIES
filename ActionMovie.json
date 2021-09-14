@@ -1,6 +1,99 @@
 {
     "konyi": [
-        {
+
+
+    {
+        "title": "Girl",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7050.jpg",
+        "video": "films\/Girl.2020.360p\/Girl.2020.360p.m3u8"
+    },
+    {
+        "title": "Behemoth",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7046.jpg",
+        "video": "films\/Behemoth.2021.360p\/Behemoth.2021.360p.m3u8"
+    },
+    {
+        "title": "The Croods (2013)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7041.jpg",
+        "video": "films\/The.Croods.2013.360\/The.Croods.2013.360.m3u8"
+    },
+    {
+        "title": "Black Widow (2021)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7029.jpg",
+        "video": "films\/Black.Widow.2021.360\/Black.Widow.2021.360.m3u8"
+    },
+    {
+        "title": "Monster Hunter (2020)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7025.jpg",
+        "video": "films\/Monster.Hunter.2020.360\/Monster.Hunter.2020.360.m3u8"
+    },
+    {
+        "title": "Sleepy Hollow (1999)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7021.jpg",
+        "video": "films\/Sleepy.Hollow.1999.360\/Sleepy.Hollow.1999.360.m3u8"
+    },
+    {
+        "title": "Midnight (2021)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_7005.jpg",
+        "video": "films\/Midnight.2021.360\/Midnight.2021.360.m3u8"
+    },
+    {
+        "title": "I Am All Girls (2021)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6981.jpg",
+        "video": "films\/I.am.all.girls.2021.360\/I.am.all.girls.2021.360.m3u8"
+    },
+    {
+        "title": "Till Death",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6958.jpg",
+        "video": "films\/Till.Death.2021.360P\/Till.Death.2021.360P.m3u8"
+    },
+    {
+        "title": "Spirit Untamed",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6954.jpg",
+        "video": "films\/Spirit.Untamed.2021.360P\/Spirit.Untamed.2021.360P.m3u8"
+    },
+    {
+        "title": "Sherni",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6950.jpg",
+        "video": "films\/Sherni.2021.360P\/Sherni.2021.360P.m3u8"
+    },
+    {
+        "title": "Shadow in the Cloud",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6946.jpg",
+        "video": "films\/Shadow.In.The.Cloud.2020.360P\/Shadow.In.The.Cloud.2020.360P.m3u8"
+    },
+    {
+        "title": "Goldfinger (1964)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6941.jpg",
+        "video": "films\/Goldfinger.1964.360\/Goldfinger.1964.360.m3u8"
+    },
+    {
+        "title": "Rurouni Kenshin: The Final",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6934.jpg",
+        "video": "films\/Rurouni.Kenshin.The.Final.2021.360P\/Rurouni.Kenshin.The.Final.2021.360P.m3u8"
+    },
+    {
+        "title": "Emily and the Magical Journey",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6930.jpg",
+        "video": "films\/Emily.And.The.Magical.Journey.2020.360P\/Emily.And.The.Magical.Journey.2020.360P.m3u8"
+    },
+    {
+        "title": "Censor",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6925.jpg",
+        "video": "films\/Censor.2021.360P\/Censor.2021.360P.m3u8"
+    },
+    {
+        "title": "A Quiet Place Part II",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6921.jpg",
+        "video": "films\/A.Quiet.Place.Part.II.2020.360P\/A.Quiet.Place.Part.II.2020.360P.m3u8"
+    },
+    {
+        "title": "Commando (1985)",
+        "image": "https:\/\/mycinema.asia\/image\/avatar_6905.jpg",
+        "video": "films\/Commando.1985.360\/Commando.1985.360.m3u8"
+    },
+
+       {
             "title": "Jolt (2021)",
             "image": "https:\/\/mycinema.asia\/image\/banner_7210.jpg",
             "video": "films\/Jolt.2021.360\/Jolt.2021.360.m3u8"
