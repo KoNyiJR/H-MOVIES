@@ -1,14 +1,54 @@
 {
     "konyi": [
         {
-            "title": "Jolt (2021)",
-            "image": "https:\/\/mycinema.asia\/image\/banner_7210.jpg",
-            "video": "films\/Jolt.2021.360\/Jolt.2021.360.m3u8"
+            "title": "Bigfoot Family",
+            "image": "https:\/\/mycinema.asia\/image\/banner_7107.jpg",
+            "video": "films\/Bigfoot.Family.2020.360\/Bigfoot.Family.2020.360.m3u8"
         },
         {
-            "title": "Jolt (2021)",
-            "image": "https:\/\/mycinema.asia\/image\/banner_7210.jpg",
-            "video": "films\/Jolt.2021.360\/Jolt.2021.360.m3u8"
+            "title": "Spirit of the Amazon",
+            "image": "https:\/\/mycinema.asia\/image\/banner_7102.jpg",
+            "video": "films\/Ainbo.2021.360\/Ainbo.2021.360.m3u8"
+        },
+        {
+            "title": "The Croods",
+            "image": "https:\/\/mycinema.asia\/image\/banner_7041.jpg",
+            "video": "films\/The.Croods.2013.360\/The.Croods.2013.360.m3u8"
+        },
+        {
+            "title": "Spirit Untamed",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6954.jpg",
+            "video": "films\/Spirit.Untamed.2021.360P\/Spirit.Untamed.2021.360P.m3u8"
+        },
+        {
+            "title": "The Mitchells vs the Machines",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6883.jpg",
+            "video": "films\/The.Mitchells.Vs.The.Machines.2021.360P\/The.Mitchells.Vs.The.Machines.2021.360P.m3u8"
+        },
+        {
+            "title": "Tom & Jerry ",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6823.jpg",
+            "video": "films\/Tom.and.Jerry.2021.360\/Tom.and.Jerry.2021.360.m3u8"
+        },
+        {
+            "title": "22 vs. Earth",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6791.jpg",
+            "video": "films\/22.Vs.Earth.2021.360P 00_00_10-00_05_37\/22.Vs.Earth.2021.360P 00_00_10-00_05_37.m3u8"
+        },
+        {
+            "title": "Luca (2021)",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6741.jpg",
+            "video": "films\/Luca.2021.360\/Luca.2021.360.m3u8"
+        },
+        {
+            "title": "Soul (2020)",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6701.jpg",
+            "video": "films\/Soul.2020.360\/Soul.2020.360.m3u8"
+        },
+        {
+            "title": "Raya and the Last Dragon",
+            "image": "https:\/\/mycinema.asia\/image\/banner_6614.jpg",
+            "video": "films\/Raya.and.the.Last.Dragon.2021.360\/Raya.and.the.Last.Dragon.2021.360.m3u8"
         }
     ]
 }
