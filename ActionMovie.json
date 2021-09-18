@@ -1,6 +1,11 @@
 {
     "konyi": [
 
+ {
+            "title": "Titanic",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2034.jpg",
+            "video": "films\/Titanic_1997_720\/Titanic_1997_720.m3u8"
+        },
 
    {
             "title": "2gether: The Series (ep1)",
