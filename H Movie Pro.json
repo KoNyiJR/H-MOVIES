@@ -2,8 +2,9 @@
 {"name":"Recent", "image":"https://drive.google.com/file/d/1NHDARE8Ur_KUOKYXFWVfncf-9XSwBLrn/view?usp=drivesdk"
 },
 {"name":"Action", "image":"https://drive.google.com/file/d/1MUCAmCD4z_XuSh3L6vaMwNjsjx5-ftY4/view?usp=drivesdk"
-}
-],
+},
+{"name":"Drama", "image":"https://drive.google.com/file/d/1MoXhBzeHJvsglxafu_Y-Luy3I-hqYexC/view?usp=drivesdk"
+}],
 
 "Recent":[
 {"title":"Furious",
@@ -26,6 +27,12 @@
  "image":"https://drive.google.com/file/d/1Mn-ybOu68Y5uFoExdlUuEuQ0EMfI6lru/view?usp=drivesdk", "link":"https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp=drivesdk"
 },
 {"title":"Hacksaw", "desc":"This is a description.", "image":"https://drive.google.com/file/d/1MQarAi3K7RrX9Gdl66oBTLsY7tiYsfLy/view?usp=drivesdk", "link":"https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp=drivesdk"
+}],
+
+"Drama":[
+{"title":"Lalaland", "desc":"This is a description.", "image":"https://drive.google.com/file/d/1N6-RLJ8JnFSiuEiriILLqHA9lst3UIDZ/view?usp=drivesdk", "link":"https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp=drivesdk"
+},
+{"title":"Arrival", "desc":"This is a description.", "image":"https://drive.google.com/file/d/1MoXhBzeHJvsglxafu_Y-Luy3I-hqYexC/view?usp=drivesdk", "link":"https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp=drivesdk"
 }]
 
 
