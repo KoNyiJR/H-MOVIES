@@ -1,6 +1,27 @@
 {
     "konyi": [
 
+
+     {
+            "title": "Redemption Day",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_6127.jpg",
+            "video": "films\/Redemption.Day.2021.360p\/Redemption.Day.2021.360p.m3u8"
+        },
+        {
+            "title": "Tom Clancy’s Without Remorse",
+            "image": "https:\/\/mycinema.asia\/image\/1620465242651.jpg",
+            "video": "films\/Tom_Clancys_Without_Remorse_2021_360\/Tom_Clancys_Without_Remorse_2021_360.m3u8"
+        },
+        {
+            "title": "Deadpool",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_6142.jpg",
+            "video": "films\/Deadpool_360\/Deadpool_360.m3u8"
+        },
+        
+        
+        
+
+
   {
             "title": "Game of Thrones: Season 1",
             "image": "https:\/\/mycinema.asia\/image\/avatar_165.jpg",
