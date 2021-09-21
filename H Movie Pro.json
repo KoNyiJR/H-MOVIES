@@ -11,7 +11,12 @@
 ],
 
 "Recent":[
-
+  {        "category": "Action",
+    "title": "Captain Marvel",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2482.jpg",
+            "link": "https:\/\/mycinema.asia\/media\/films\/Captain_Marvel_2019_720\/Captain_Marvel_2019_720.m3u8",
+            "desc": "ဒါရိုက်တာ : Anna Boden, Ryan Fleck.\nစီစဉ်သူ : Anna Boden, Ryan Fleck.\nသရုပ်ဆောင်များ : Brie Larson, Samuel L. Jackson, Ben Mendelsohn.\nထွက်သည့်နှစ် : 2019.\nနိုင်ငံများ : USA.\nDescriptionMarvel ထုတ်လုပ်ရေးမှ Marvel Cinematic Universe(MCU) ကို လွန်ခဲ့တဲ့ ၁၀ နှစ်က စပြီးတည်ဆောက်ခဲ့ပါတယ်။ ပထမဆုံး ဇာတ်လမ်းဖြစ်တဲ့ Iron Man-1 နဲ့ဖြစ်ပါတယ်။ နောက်ဆုံးအပိတ်ကတော့ Endgame (2019) ဖြစ်ပါတယ်။Marvel Universe မှာ Infinity Stone လို့ ခေါ်တဲ့ စွမ်းအား အကြီးဆုံး ကျောက်တုံး(၆) လုံးရှိပါတယ်။ အဲဒီကျောက်တုံးတွေဟာ စကြဝဠာအနှံ့မှာ ပြန့်ကျဲနေတယ် ဆိုပါတော့။ ကျောက်တုံးတစ်တုံးချင်းစီမှာ သီးခြားအစွမ်းတွေ ရှိပြီး သာမာန်လူတွေ ကိုင်တွယ်သုံးစွဲဖို့ မဖြစ်နိုင်သလောက်ပါပဲ။\n\n"
+        },
 
 {"category": "Series",
             "title": "Midsummer Is Full of Love(EPS1)",
@@ -376,6 +381,14 @@
     ],
 
 "Action":[
+
+  {
+            "title": "Captain Marvel",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2482.jpg",
+            "link": "https:\/\/mycinema.asia\/media\/films\/Captain_Marvel_2019_720\/Captain_Marvel_2019_720.m3u8",
+            "desc": "ဒါရိုက်တာ : Anna Boden, Ryan Fleck.\nစီစဉ်သူ : Anna Boden, Ryan Fleck.\nသရုပ်ဆောင်များ : Brie Larson, Samuel L. Jackson, Ben Mendelsohn.\nထွက်သည့်နှစ် : 2019.\nနိုင်ငံများ : USA.\nDescriptionMarvel ထုတ်လုပ်ရေးမှ Marvel Cinematic Universe(MCU) ကို လွန်ခဲ့တဲ့ ၁၀ နှစ်က စပြီးတည်ဆောက်ခဲ့ပါတယ်။ ပထမဆုံး ဇာတ်လမ်းဖြစ်တဲ့ Iron Man-1 နဲ့ဖြစ်ပါတယ်။ နောက်ဆုံးအပိတ်ကတော့ Endgame (2019) ဖြစ်ပါတယ်။Marvel Universe မှာ Infinity Stone လို့ ခေါ်တဲ့ စွမ်းအား အကြီးဆုံး ကျောက်တုံး(၆) လုံးရှိပါတယ်။ အဲဒီကျောက်တုံးတွေဟာ စကြဝဠာအနှံ့မှာ ပြန့်ကျဲနေတယ် ဆိုပါတော့။ ကျောက်တုံးတစ်တုံးချင်းစီမှာ သီးခြားအစွမ်းတွေ ရှိပြီး သာမာန်လူတွေ ကိုင်တွယ်သုံးစွဲဖို့ မဖြစ်နိုင်သလောက်ပါပဲ။\n\n"
+        },
+
 {  "title": "Titanic",
     "image": "https:\/\/mycinema.asia\/image\/avatar_2034.jpg",
     "link": "https:\/\/mycinema.asia\/media\/films\/Titanic_1997_720\/Titanic_1997_720.m3u8",
