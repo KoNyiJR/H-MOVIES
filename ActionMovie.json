@@ -1,5 +1,20 @@
 {
     "konyi": [
+      {
+            "title": "Wolf Warrior",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3067.jpg ",
+            "video": "films\/Wolf_Warrior_2015_720\/Wolf_Warrior_2015_720.m3u8"
+       },
+        {
+            "title": "Wolf Warrior 2",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2932.jpg ",
+            "video": "films\/Wolf_Warrior_2_2017_720\/Wolf_Warrior_2_2017_720.m3u8"
+        },
+        {
+            "title": "Taoist Master",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2741.jpg",
+            "video": "films\/Taoist.Master.2020_720\/Taoist.Master.2020_720.m3u8"
+      },
     {
             "title": "Into the Badlands: Season 2 [Eps1]",
             "image": "https:\/\/mycinema.asia\/image\/avatar_75.jpg",
