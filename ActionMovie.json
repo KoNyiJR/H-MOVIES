@@ -1,6 +1,26 @@
 {
     "konyi": [
      {
+            "title": "Along Came the Devil",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4129.jpg",
+            "video": "films\/Along_Came_The_Devil_2018_720\/Along_Came_The_Devil_2018_720.m3u8"
+        },
+        {
+            "title": "Wake Up",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3961.jpg",
+            "video": "films\/Wake_Up_2019_720\/Wake_Up_2019_720.m3u8"
+        },
+        {
+            "title": "Zombie Fighters (Kud Krachak Krien)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3390.jpg",
+            "video": "films\/Zombie_Fighters_2017_720\/Zombie_Fighters_2017_720.m3u8"
+        },
+        {
+            "title": "Ghost Net",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3351.jpg",
+            "video": "films\/Ghost_Net_2017_720\/Ghost_Net_2017_720.m3u8"
+        },
+     {
             "title": "Record of Youth [ အပိုင်း 1 ]",
             "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
             "video": "series\/Record_of_Youth\/Record_of_Youth_ep1_720\/Record_of_Youth_ep1_720.m3u8"
