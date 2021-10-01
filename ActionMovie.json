@@ -1,5 +1,85 @@
 {
     "konyi": [
+     {
+            "title": "Record of Youth [ အပိုင်း 1 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep1_720\/Record_of_Youth_ep1_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 2 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep2_720\/Record_of_Youth_ep2_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 3 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep3_720\/Record_of_Youth_ep3_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 4 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep4_720\/Record_of_Youth_ep4_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 5 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep5_720\/Record_of_Youth_ep5_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 6 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep6_720\/Record_of_Youth_ep6_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 7 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep7_720\/Record_of_Youth_ep7_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 8 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep8_720\/Record_of_Youth_ep8_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 9 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep9_720\/Record_of_Youth_ep9_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 10 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep10_720\/Record_of_Youth_ep10_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 11 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep11_720\/Record_of_Youth_ep11_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 12 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep12_720\/Record_of_Youth_ep12_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 13 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep13_720\/Record_of_Youth_ep13_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 14 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep14_720\/Record_of_Youth_ep14_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 15 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep15_720\/Record_of_Youth_ep15_720.m3u8"
+        },
+        {
+            "title": "Record of Youth [ အပိုင်း 16 ]",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4245.jpg",
+            "video": "series\/Record_of_Youth\/Record_of_Youth_ep16_720\/Record_of_Youth_ep16_720.m3u8"
+        },
    {
             "title": "Into the Badlands: Season 3 [ Eps 1 ]",
             "image": "https:\/\/mycinema.asia\/image\/avatar_577.jpg",
