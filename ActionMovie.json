@@ -1,5 +1,125 @@
 {
     "konyi": [
+    {
+            "title": "Pig",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7587.jpg",
+            "video": "films\/Pig.2021.360\/Pig.2021.360.m3u8"
+        },
+        {
+            "title": "Candyman",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7581.jpg",
+            "video": "films\/Candyman.2021.360P\/Candyman.2021.360P.m3u8\n"
+        },
+        {
+            "title": "Sinkhole",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7569.jpg",
+            "video": "films\/SINKHOLE.2021.360\/SINKHOLE.2021.360.m3u8\n"
+        },
+        {
+            "title": "Hard Hit",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7503.jpg",
+            "video": "films\/HARD.HIT.2021.360\/HARD.HIT.2021.360.m3u8"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E01\/TWD_S11E01.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E02\/TWD_S11E02.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E03\/TWD_S11E03.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E04\/TWD_S11E04.m3u8\n"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_01\/The_Witch\\u2019s_Diner_2021_01.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_02\/The_Witch\\u2019s_Diner_2021_02.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_03\/The_Witch\\u2019s_Diner_2021_03.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_04\/The_Witch\\u2019s_Diner_2021_04.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 5 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_05\/The_Witch\\u2019s_Diner_2021_05.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 6 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_06\/The_Witch\\u2019s_Diner_2021_06.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 7 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_07\/The_Witch\\u2019s_Diner_2021_07.m3u8"
+        },
+        {
+            "title": "The Witch’s Diner (အပိုင်း 8 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
+            "video": "series\/The_Witch's_Diner\/The_Witch\\u2019s_Diner_2021_08\/The_Witch\\u2019s_Diner_2021_08.m3u8"
+        },
+       {
+            "title": "Girl From Nowhere (အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.01.360\/Girl.From.Nowhere.01.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.02.360\/Girl.From.Nowhere.02.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.03.360\/Girl.From.Nowhere.03.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.04.360\/Girl.From.Nowhere.04.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 5 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.05.360\/Girl.From.Nowhere.05.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 6 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.06.360\/Girl.From.Nowhere.06.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 7 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.07.360\/Girl.From.Nowhere.07.360.m3u8"
+        },
+        {
+            "title": "Girl From Nowhere (အပိုင်း 8 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7481.jpg",
+            "video": "series\/Girl.From.Nowhere\/Girl.From.Nowhere.08.360\/Girl.From.Nowhere.08.360.m3u8"
+        },
       {
             "title": "Loki (2021) (အပိုင်း 1 )",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7302.jpg",
