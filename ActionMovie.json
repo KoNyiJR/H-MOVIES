@@ -1,6 +1,91 @@
 {
     "konyi": [
     {
+            "title": "Free Guy (2021)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7430.jpg",
+            "video": "films\/Free_Guy_2021\/Free_Guy_2021.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep1_720\/ep1_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep2_720\/ep2_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep3_720\/ep3_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep4_720\/ep4_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 5 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep5_720\/ep5_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 6 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep6_720\/ep6_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 7 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep7_720\/ep7_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 8 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep8_720\/ep8_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 9 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep9_720\/ep9_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 10 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep10_720\/ep10_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 11 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep11_720\/ep11_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 12 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep12_720\/ep12_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 13 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep13_720\/ep13_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 14 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep14_720\/ep14_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 15 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep15_720\/ep15_720.m3u8"
+        },
+        {
+            "title": "The Tale of Nokdu (အပိုင်း 16 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_2056.jpg",
+            "video": "series\/The_Tale_of_Nokdu\/ep16_720\/ep16_720.m3u8"
+        },
+    {
             "title": "Pig",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7587.jpg",
             "video": "films\/Pig.2021.360\/Pig.2021.360.m3u8"
