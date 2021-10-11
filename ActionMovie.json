@@ -1,5 +1,115 @@
 {
     "konyi": [
+     {
+            "title": "Barbarians (အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep1_720\/Barbarians_2020_ep1.m3u8"
+        },
+        {
+            "title": "Barbarians (အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep2_720\/Barbarians_2020_ep2.m3u8"
+        },
+        {
+            "title": "Barbarians (အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep3_720\/Barbarians_2020_ep3.m3u8"
+        },
+        {
+            "title": "Barbarians (အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep4_720\/Barbarians_2020_ep4.m3u8"
+        },
+        {
+            "title": "Barbarians (အပိုင်း 5 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep5_720\/Barbarians_2020_ep5.m3u8"
+        },
+        {
+            "title": "Barbarians (အပိုင်း 6 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4950.jpg",
+            "video": "series\/Barbarians_2020\/Barbarians_2020_ep6_720\/Barbarians_2020_ep6.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 1 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep1_720\/Vagabond_2019_ep1_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 2 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep2_720\/Vagabond_2019_ep2_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 3 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep3_720\/Vagabond_2019_ep3_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 4 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep4_720\/Vagabond_2019_ep4_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 5 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep5_720\/Vagabond_2019_ep5_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 6 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep6_720\/Vagabond_2019_ep6_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 7 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep7_720\/Vagabond_2019_ep7_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 8 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep8_720\/Vagabond_2019_ep8_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 9 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep9_720\/Vagabond_2019_ep9_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 10 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep10_720\/Vagabond_2019_ep10_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 11 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep11_720\/Vagabond_2019_ep11_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 12 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep12_720\/Vagabond_2019_ep12_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 13 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep13_720\/Vagabond_2019_ep13_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 14 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep14_720\/Vagabond_2019_ep14_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 15 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep15_720\/Vagabond_2019_ep15_720.m3u8"
+        },
+        {
+            "title": "Vagabond(အပိုင်း 16 )",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1969.jpg",
+            "video": "series\/Vagabond_2019\/Vagabond_2019_ep16_720\/Vagabond_2019_ep16_720.m3u8"
+        },
     {
             "title": "Free Guy (2021)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7430.jpg",
