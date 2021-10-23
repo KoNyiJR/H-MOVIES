@@ -1,5 +1,25 @@
 {
     "konyi": [
+   {
+            "title": "The Night House",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7847.jpg",
+            "video": "films\/The.Night.House.2021.360p\/The.Night.House.2021.360p.m3u8"
+        },
+        {
+            "title": "Old Henry",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7841.jpg",
+            "video": "films\/Old.Henry.2021.360p\/Old.Henry.2021.360p.m3u8"
+        },
+        {
+            "title": "Boys from County Hell",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7767.jpg",
+            "video": "films\/Boys.From.County.Hell.2020.360p\/Boys.From.County.Hell.2020.360p.m3u8"
+        },
+        {
+            "title": "Shershaah (2021)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7641.jpg",
+            "video": "films\/Shershaah.2021.360\/Shershaah.2021.360.m3u8"
+        }, 
        {
             "title": "Hometown (အပိုင်း 1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7801.jpg",
@@ -364,27 +384,7 @@
             "title": "Hard Hit",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7503.jpg",
             "video": "films\/HARD.HIT.2021.360\/HARD.HIT.2021.360.m3u8"
-        },
-        {
-            "title": "The Walking Dead(အပိုင်း 1 )",
-            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
-            "video": "series\/TWD\/TWD_S11\/TWD_S11E01\/TWD_S11E01.m3u8\n"
-        },
-        {
-            "title": "The Walking Dead(အပိုင်း 2 )",
-            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
-            "video": "series\/TWD\/TWD_S11\/TWD_S11E02\/TWD_S11E02.m3u8\n"
-        },
-        {
-            "title": "The Walking Dead(အပိုင်း 3 )",
-            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
-            "video": "series\/TWD\/TWD_S11\/TWD_S11E03\/TWD_S11E03.m3u8\n"
-        },
-        {
-            "title": "The Walking Dead(အပိုင်း 4 )",
-            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
-            "video": "series\/TWD\/TWD_S11\/TWD_S11E04\/TWD_S11E04.m3u8\n"
-        },
+        },  
         {
             "title": "The Witch’s Diner (အပိုင်း 1 )",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7511.jpg",
