@@ -1,5 +1,45 @@
 {
     "konyi": [
+  {
+            "title": "The Walking Dead(အပိုင်း1)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E01\/TWD_S11E01.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း2)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E02\/TWD_S11E02.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း3)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E03\/TWD_S11E03.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း4)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E04\/TWD_S11E04.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း5)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E05\/TWD_S11E05.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း6)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E06\/TWD_S11E06.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း7)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E07\/TWD_S11E07.m3u8\n"
+        },
+        {
+            "title": "The Walking Dead(အပိုင်း8)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
+            "video": "series\/TWD\/TWD_S11\/TWD_S11E08\/TWD_S11E08.m3u8\n"
+        },
    {
             "title": "The Night House",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7847.jpg",
