@@ -1,7 +1,31 @@
 {
     "konyi": [
-  {
-            "title": "The Walking Dead(အပိုင်း1)",
+ {
+            "title": "Coming Home in the Dark",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7810.jpg",
+            "video": "films\/Coming.Home.In.The.Dark.2021.360p\/Coming.Home.In.The.Dark.2021.360p.m3u8"
+        },
+        {
+            "title": "Prisoners of the Ghostland",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7777.jpg",
+            "video": "films\/Prisoners.Of.The.Ghostland.2021.360P\/Prisoners.Of.The.Ghostland.2021.360P.m3u8"
+        },
+        {
+            "title": "Mutation on Mars",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7625.jpg",
+            "video": "films\/Mutation.On.Mars.2021.Chinese.360P\/Mutation.On.Mars.2021.Chinese.360P.m3u8"
+        },
+        {
+            "title": "Nightbooks",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7665.jpg",
+            "video": "films\/Nightbooks.2021.360P\/Nightbooks.2021.360P.m3u8"
+        },
+        {
+            "title": "Edge of the World",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7610.jpg",
+            "video": "films\/Edge.Of.The.World.2021.360P\/Edge.Of.The.World.2021.360P.m3u8"
+        },
+        {   "title": "The Walking Dead(အပိုင်း1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7502.jpg",
             "video": "series\/TWD\/TWD_S11\/TWD_S11E01\/TWD_S11E01.m3u8\n"
         },
