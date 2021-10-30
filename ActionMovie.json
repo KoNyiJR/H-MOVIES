@@ -1,7 +1,57 @@
 {
     "konyi": [
    {
-            "title": "The Veil (2021)(အပိုင်း1)",
+            "title": "Game of Thrones: Season 6(အပိုင်း1)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E01_360\/GOT_SS6_E01_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း2)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E02_360\/GOT_SS6_E02_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း3)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E03_360\/GOT_SS6_E03_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း4)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E04_360\/GOT_SS6_E04_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း5)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E05_360\/GOT_SS6_E05_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း6)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E06_360\/GOT_SS6_E06_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း7)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E07_360\/GOT_SS6_E07_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း8)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E08_360\/GOT_SS6_E08_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း9)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E09_360\/GOT_SS6_E09_360.m3u8"
+        },
+        {
+            "title": "Game of Thrones: Season 6(အပိုင်း10)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_1928.jpg",
+            "video": "series\/Game.of.thrones\/Game_of_Thrones_S06\/GOT_SS6_E10_360\/GOT_SS6_E10_360.m3u8"
+        },
+        {  
+          "title": "The Veil (2021)(အပိုင်း1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7846.jpg",
             "video": "series\/The.Veil.2021\/The.Veil.2021.E01.360\/The.Veil.2021.E01.360.m3u8"
         },
