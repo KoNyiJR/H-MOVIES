@@ -1,7 +1,36 @@
 {
     "konyi": [
- {
-            "title": "Game of Thrones: Season 7(အပိုင်း1)",
+  {
+            "title": "Sanak",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7987.jpg",
+            "video": "films\/Sanak.2021.360p\/Sanak.2021.360p.m3u8"
+        },
+        {
+            "title": "Injustice",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7965.jpg",
+            "video": "films\/Injustice.2021.360p\/Injustice.2021.360p.m3u8"
+        },
+        {
+            "title": "Night Teeth",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7981.jpg",
+            "video": "films\/Night.Teeth.2021.360p\/Night.Teeth.2021.360p.m3u8"
+        },
+        {
+            "title": "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7951.jpg",
+            "video": "films\/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM\/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021_CAM.m3u8"
+        },
+        {
+            "title": "Halloween Kills",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7953.jpg",
+            "video": "films\/Halloween.Kills.2021.360p\/Halloween.Kills.2021.360p.m3u8"
+        },
+        {
+            "title": "Escape from Mogadishu",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8009.jpg",
+            "video": "films\/Escape.From.Mogadishu.2021.360p\/Escape.From.Mogadishu.2021.360p.m3u8"
+        },
+        {            "title": "Game of Thrones: Season 7(အပိုင်း1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_2043.jpg",
             "video": "series\/Game.of.thrones\/Game_of_Thrones_S07\/GOT_S07E01_360\/GOT_S07E01_360.m3u8"
         },
