@@ -1,6 +1,46 @@
 {
     "konyi": [
-  {
+    {
+            "title": "My Name(အပိုင်း1)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E01.360\/My.Name.2021.E01.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း2)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E02.360\/My.Name.2021.E02.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း3)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E03.360\/My.Name.2021.E03.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း4)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E04.360\/My.Name.2021.E04.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း5)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E05.360\/My.Name.2021.E05.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း6)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E06.360\/My.Name.2021.E06.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း7)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E07.360\/My.Name.2021.E07.360.m3u8"
+        },
+        {
+            "title": "My Name(အပိုင်း8)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_7930.jpg",
+            "video": "series\/My.name.2021\/My.Name.2021.E08.360\/My.Name.2021.E08.360.m3u8"
+        },
+        {
             "title": "Sanak",
             "image": "https:\/\/mycinema.asia\/image\/avatar_7987.jpg",
             "video": "films\/Sanak.2021.360p\/Sanak.2021.360p.m3u8"
