@@ -1,7 +1,52 @@
 {
     "konyi": [
-   {
-            "title": "Alice in Borderland (အပိုင်း1)(ss1)",
+     
+      {
+            "title": "Squid Game (အပိုင်း 1)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E1\/Squid_Game_SS1_E1.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 2)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E2\/Squid_Game_SS1_E2.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 3)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E3\/Squid_Game_SS1_E3.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 4)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E4\/Squid_Game_SS1_E4.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 5)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E5\/Squid_Game_SS1_E5.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 6)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E6\/Squid_Game_SS1_E6.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 7)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E7\/Squid_Game_SS1_E7.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 8)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E8\/Squid_Game_SS1_E8.m3u8"
+        },
+        {
+            "title": "Squid Game (အပိုင်း 9)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_8542.jpg",
+            "video": "series\/Squid_Game_SS1\/Squid_Game_SS1_E9\/Squid_Game_SS1_E9.m3u8"
+        },
+{            "title": "Alice in Borderland (အပိုင်း1)(ss1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_8082.jpg",
             "video": "series\/Alice.in.Borderland\/Alice.in.Borderland.S01E01.360\/Alice.in.Borderland.S01E01.360.m3u8"
         },
