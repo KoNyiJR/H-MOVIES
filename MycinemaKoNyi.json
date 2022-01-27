@@ -1,5 +1,101 @@
 {
     "konyi": [
+
+        {
+            "title": "We Are ",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3821.jpg",
+            "video": "films\/We_Are_2018_720\/We_Are_2018_720.m3u8"
+        },
+        {
+            "title": "The Hows of Us",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_4348.jpg",
+            "video": "films\/The_Hows_Of_Us_2018_720\/The_Hows_Of_Us_2018_720.m3u8"
+        },
+        {
+            "title": "App War",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3536.jpg",
+            "video": "films\/App_War_2018_720\/App_War_2018_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း1)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep1_720\/Backstreet_Rookie_Ep1_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း2)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep2_720\/Backstreet_Rookie_Ep2_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း3)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep3_720\/Backstreet_Rookie_Ep3_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း4)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep4_720\/Backstreet_Rookie_Ep4_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း5)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep5_720\/Backstreet_Rookie_Ep5_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း6)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep6_720\/Backstreet_Rookie_Ep6_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း7)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep7_720\/Backstreet_Rookie_Ep7_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း8)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep8_720\/Backstreet_Rookie_Ep8_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း9)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep9_720\/Backstreet_Rookie_Ep9_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း10)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep10_720\/Backstreet_Rookie_Ep10_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း11)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep11_720\/Backstreet_Rookie_Ep11_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း12)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep12_720\/Backstreet_Rookie_Ep12_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း13)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep13_720\/Backstreet_Rookie_Ep13_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း14)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep14_720\/Backstreet_Rookie_Ep14_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း15)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep15_720\/Backstreet_Rookie_Ep15_720.m3u8"
+        },
+        {
+            "title": "Backstreet Rookie (အပိုင်း16)",
+            "image": "https:\/\/mycinema.asia\/image\/avatar_3101.jpg\n",
+            "video": "series\/Backstreet_Rookie\/Backstreet_Rookie_Ep16_720\/Backstreet_Rookie_Ep16_720.m3u8"
+        },
    {
             "title": "Rugal (အပိုင်း 1)",
             "image": "https:\/\/mycinema.asia\/image\/avatar_2227.jpg",
